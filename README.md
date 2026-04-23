@@ -187,15 +187,3 @@ Mobile app version
 
 📄 License
 This project is for educational purposes.
-
-If you want, I can also:
-
-
-Make it more attractive with badges & icons
-
-
-Add live demo link format
-
-
-Or fix your HTML code (there are some mistakes like duplicate <body> and CSS issues)
-
