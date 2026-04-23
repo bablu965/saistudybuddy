@@ -159,16 +159,6 @@ Run the index.html file in any browser
 
 
 
-🤝 Contributors
-
-
-Team of 5 partners
-
-
-Equal investment and profit sharing
-
-
-
 📌 Future Enhancements
 
 
